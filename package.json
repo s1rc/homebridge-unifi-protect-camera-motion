@@ -26,13 +26,12 @@
     "homebridge": ">=1.0.0"
   },
   "dependencies": {
-    "homebridge-camera-ffmpeg": "1.0.0",
-    "@tensorflow/tfjs-node": "1.2.11",
     "axios": "^0.19.2",
     "canvas": "^2.6.1",
     "debug": "^2.6.9",
     "googleapis": ">=39.1.0",
     "googlephotos": "^0.2.5",
+    "homebridge-camera-ffmpeg": "1.0.0",
     "ip": "^1.1.5"
   },
   "devDependencies": {
